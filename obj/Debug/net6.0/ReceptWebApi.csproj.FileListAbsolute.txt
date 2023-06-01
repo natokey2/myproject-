@@ -1,0 +1,82 @@
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/appsettings.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.deps.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.runtimeconfig.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.pdb
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Dapper.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.csproj.AssemblyReference.cache
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.AssemblyInfoInputs.cache
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.AssemblyInfo.cs
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.csproj.CoreCompileInputs.cache
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.ReceptWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.build.ReceptWebApi.props
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ReceptWebApi.props
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ReceptWebApi.props
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/scopedcss/bundle/ReceptWebApi.styles.css
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.csproj.CopyComplete
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/refint/ReceptWebApi.dll
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.pdb
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.genruntimeconfig.cache
+/Users/natiqalhawmani/Projects/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ref/ReceptWebApi.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.csproj.AssemblyReference.cache
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.AssemblyInfoInputs.cache
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.AssemblyInfo.cs
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.csproj.CoreCompileInputs.cache
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/refint/ReceptWebApi.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.pdb
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/appsettings.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.deps.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.runtimeconfig.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/ReceptWebApi.pdb
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Dapper.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.ReceptWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.build.ReceptWebApi.props
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ReceptWebApi.props
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ReceptWebApi.props
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/scopedcss/bundle/ReceptWebApi.styles.css
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.csproj.CopyComplete
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ReceptWebApi.genruntimeconfig.cache
+/Users/natiqalhawmani/Desktop/Systematisk applikation utveckling/ReceptWebApi/ReceptWebApi/obj/Debug/net6.0/ref/ReceptWebApi.dll
